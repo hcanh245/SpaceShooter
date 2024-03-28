@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76bf8b5d91ca2fa439c4965b7a2927f7, type: 3}
+  m_Name: Boss3Info
+  m_EditorClassIdentifier: 
+  name: Boss3
+  health: 60
+  score: 3000
+  bullet: {fileID: 3653063628212933869, guid: 2224e58bf0a55aa4ba4b2fd8673c8498, type: 3}
+  exp: {fileID: 8452432647229537623, guid: db5ac60294f0b684c96aeaa25e289034, type: 3}
